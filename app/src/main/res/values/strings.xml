@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PestoPractical</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Cnf_Password">Confirm Password</string>
+
+    <array name="taskstatus">
+        <item>New</item>
+        <item>In Progress</item>
+        <item>Done</item>
+    </array>
+</resources>
